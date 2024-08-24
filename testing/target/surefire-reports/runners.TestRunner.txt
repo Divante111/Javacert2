@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 1, Skipped: 0, Time elapsed: 23.963 s <<< FAILURE! - in runners.TestRunner
+Changing name to verify 10.Finish checkout #2  Time elapsed: 4.122 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...o.com/checkout-step-[two].html> but was:<...o.com/checkout-step-[one].html>
+
+Changing name to verify 10.Finish checkout #3  Time elapsed: 3.637 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...o.com/checkout-step-[two].html> but was:<...o.com/checkout-step-[one].html>
+
+Changing name to verify 10.Finish checkout #4  Time elapsed: 3.911 s  <<< ERROR!
+io.cucumber.java.PendingException: TODO: implement me
+

@@ -1,0 +1,13 @@
+<suite name="Parallel Test Suite" parallel="tests" thread-count="2">
+    <test name="Test1">
+        <classes>
+            <class name="com.example.TestRunner1"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="com.example.TestRunner2"/>
+        </classes>
+    </test>
+</suite>
+

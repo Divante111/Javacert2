@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employees>
+        <employee id="1">
+            <name>John Doe</name>
+            <age>30</age>
+            <position>Software Engineer</position>
+        </employee>
+        <employee id="2">
+            <name>Jane Smith</name>
+            <age>28</age>
+            <position>Data Scientist</position>
+        </employee>
+    </employees>
+    <address>
+        <street>123 Tech Street</street>
+        <city>Silicon Valley</city>
+        <country>USA</country>
+    </address>
+</company>

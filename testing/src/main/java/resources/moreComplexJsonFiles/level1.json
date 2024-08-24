@@ -1,0 +1,45 @@
+{
+  "employees" : [ {
+    "id" : 1,
+    "name" : "John Doe",
+    "department" : "Engineering",
+    "skills" : [ "Java", "updated two", "JavaScript" ],
+    "address" : {
+      "street" : "I updated this value",
+      "city" : "Anytown",
+      "state" : "CA",
+      "zip" : "12345",
+      "country" : "USA"
+    },
+    "projects" : [ {
+      "name" : "Divante",
+      "role" : "Developer",
+      "startDate" : "2024-11-07",
+      "endDate" : "TBD",
+      "street" : "I updated this value"
+    }, {
+      "name" : "Project B",
+      "role" : "Lead Developer",
+      "startDate" : "2022-07-01",
+      "endDate" : "2023-12-31"
+    } ]
+  }, {
+    "id" : 2,
+    "name" : "Jane Smith",
+    "department" : "Marketing",
+    "skills" : [ "Copywriting", "SEO", "Social Media Marketing" ],
+    "address" : {
+      "street" : "456 Elm St",
+      "city" : "Smallville",
+      "state" : "NY",
+      "zip" : "54321",
+      "country" : "USA"
+    },
+    "projects" : [ {
+      "name" : "Campaign X",
+      "role" : "Marketing Specialist",
+      "startDate" : "2023-02-15",
+      "endDate" : "2023-08-15"
+    } ]
+  } ]
+}

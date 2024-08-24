@@ -1,0 +1,57 @@
+{
+    "company": "Tech Solutions Inc.",
+    "employees": [
+      {
+        "name": "John Doe",
+        "age": 30,
+        "position": "Software Engineer",
+        "skills": ["Java", "Python", "JavaScript"],
+        "address": {
+          "street": "456 Dev Avenue",
+          "city": "Tech Town",
+          "country": "USA"
+        },
+        "projects": [
+          {
+            "name": "Project A",
+            "description": "Developing a new web application",
+            "technologies": ["Java", "Spring Boot", "React"]
+          },
+          {
+            "name": "Project B",
+            "description": "Data analysis and visualization",
+            "technologies": ["Python", "Pandas", "Matplotlib"]
+          }
+        ]
+      },
+      {
+        "name": "Jane Smith",
+        "age": 28,
+        "position": "Data Scientist",
+        "skills": ["Python", "R", "Machine Learning"],
+        "address": {
+          "street": "789 Data Drive",
+          "city": "Analytics City",
+          "country": "USA"
+        },
+        "projects": [
+          {
+            "name": "Project C",
+            "description": "Predictive modeling for customer segmentation",
+            "technologies": ["R", "TensorFlow", "Scikit-learn"]
+          },
+          {
+            "name": "Project D",
+            "description": "Natural language processing research",
+            "technologies": ["Python", "NLTK", "Spacy"]
+          }
+        ]
+      }
+    ],
+    "address": {
+      "street": "123 Tech Street",
+      "city": "Silicon Valley",
+      "country": "USA"
+    }
+  }
+  

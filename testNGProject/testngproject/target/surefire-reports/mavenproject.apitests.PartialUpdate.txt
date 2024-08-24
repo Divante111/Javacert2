@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mavenproject.apitests.PartialUpdate
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.774 s -- in mavenproject.apitests.PartialUpdate

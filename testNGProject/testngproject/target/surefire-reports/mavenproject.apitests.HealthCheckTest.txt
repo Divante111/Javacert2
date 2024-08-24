@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mavenproject.apitests.HealthCheckTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.893 s -- in mavenproject.apitests.HealthCheckTest

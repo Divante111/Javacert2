@@ -1,0 +1,42 @@
+<companies>
+    <company>
+        <name>Tech Solutions Inc.</name>
+        <employees>
+            <employee>
+                <name>John Doe</name>
+                <age>30</age>
+                <position>Software Engineer</position>
+            </employee>
+            <employee>
+                <name>Jane Smith</name>
+                <age>28</age>
+                <position>Data Scientist</position>
+            </employee>
+        </employees>
+        <address>
+            <street>123 Tech Street</street>
+            <city>Silicon Valley</city>
+            <country>USA</country>
+        </address>
+    </company>
+    <company>
+        <name>Global Innovations Ltd.</name>
+        <employees>
+            <employee>
+                <name>Michael Johnson</name>
+                <age>35</age>
+                <position>Project Manager</position>
+            </employee>
+            <employee>
+                <name>Lisa Brown</name>
+                <age>32</age>
+                <position>Senior Analyst</position>
+            </employee>
+        </employees>
+        <address>
+            <street>456 Innovation Avenue</street>
+            <city>New York</city>
+            <country>USA</country>
+        </address>
+    </company>
+</companies>

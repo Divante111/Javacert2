@@ -1,0 +1,9 @@
+mavenproject\steps\Hooks.class
+mavenproject\annotations\VeryImportant.class
+mavenproject\runners\TestRunner2.class
+mavenproject\steps\Steps.class
+mavenproject\annotations\Dog.class
+mavenproject\annotations\CreatingAnnotations.class
+mavenproject\annotations\Cat.class
+mavenproject\annotations\RunImmediately.class
+mavenproject\annotations\ImportantString.class
